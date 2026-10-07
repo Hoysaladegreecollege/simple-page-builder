@@ -1,0 +1,660 @@
+Uri: https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,301,701,300,501,401,901,400&display=swap
+File Name: P:\imp files\printbuddy.co.in\v2\css
+Content Type: text/css
+
+Uri: https://cdn.fontshare.com/wf/5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\5ICO57VJIN252OT5L2KLEIPW754DTLAO\ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK\TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff
+File Name: P:\imp files\printbuddy.co.in\wf\5ICO57VJIN252OT5L2KLEIPW754DTLAO\ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK\TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\5ICO57VJIN252OT5L2KLEIPW754DTLAO\ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK\TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X/DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD/MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X\DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD\MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X/DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD/MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.woff
+File Name: P:\imp files\printbuddy.co.in\wf\BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X\DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD\MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X/DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD/MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\BRQAKSEW34X5RMZXKNWSVNXMNXSLSG6X\DOBF42XRXCZ2WDWJNNFFNBHBHYFWLRQD\MVBFGLEMN2LQF4RKXAFO4YZFKXTEZ7FQ.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff
+File Name: P:\imp files\printbuddy.co.in\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG/LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V/WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG\LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V\WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG/LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V/WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.woff
+File Name: P:\imp files\printbuddy.co.in\wf\D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG\LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V\WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG/LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V/WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\D7WD5OXZFWQ5T76HSPWAC7MNKAJXE2YG\LUGNSPO5YC34ABNB2O6K7AFDSOJZT56V\WNDVG7O66ENLOD43GS7FBUCC4KMT5OM2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff
+File Name: P:\imp files\printbuddy.co.in\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff
+File Name: P:\imp files\printbuddy.co.in\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO\W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA\QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE\PSUTMASCDJTVPERDYJZPN23BVUFUCQIF\J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff
+File Name: P:\imp files\printbuddy.co.in\wf\NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE\PSUTMASCDJTVPERDYJZPN23BVUFUCQIF\J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE\PSUTMASCDJTVPERDYJZPN23BVUFUCQIF\J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff
+File Name: P:\imp files\printbuddy.co.in\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff
+File Name: P:\imp files\printbuddy.co.in\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.ttf
+File Name: P:\imp files\printbuddy.co.in\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff
+File Name: P:\imp files\printbuddy.co.in\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT/7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
+File Name: P:\imp files\printbuddy.co.in\wf\TTX2Z3BF3P6Y5BQT3IV2VNOK6FL22KUT\7QYRJOI3JIMYHGY6CH7SOIFRQLZOLNJ6\KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2
+Content Type: font/woff2
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css
+File Name: P:\imp files\printbuddy.co.in\ajax\libs\intl-tel-input\17.0.8\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/img/flags.png
+File Name: P:\imp files\printbuddy.co.in\ajax\libs\intl-tel-input\17.0.8\img\flags.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/img/flags@2x.png
+File Name: P:\imp files\printbuddy.co.in\ajax\libs\intl-tel-input\17.0.8\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js
+File Name: P:\imp files\printbuddy.co.in\ajax\libs\intl-tel-input\17.0.8\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap
+File Name: P:\imp files\printbuddy.co.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: P:\imp files\printbuddy.co.in\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://printbuddy.co.in/
+File Name: P:\imp files\printbuddy.co.in\index.htm
+Content Type: text/html
+
+Uri: https://printbuddy.co.in/favicon.ico
+File Name: P:\imp files\printbuddy.co.in\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://printbuddy.co.in/favicons/apple-touch-icon.png
+File Name: P:\imp files\printbuddy.co.in\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/favicons/favicon.ico
+File Name: P:\imp files\printbuddy.co.in\favicons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://printbuddy.co.in/franchise
+File Name: P:\imp files\printbuddy.co.in\franchise.html
+Content Type: text/html
+
+Uri: https://printbuddy.co.in/images/banner/section.png
+File Name: P:\imp files\printbuddy.co.in\images\banner\section.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/empowering/div-bg.png
+File Name: P:\imp files\printbuddy.co.in\images\empowering\div-bg.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/e1.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\e1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/e2.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\e2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/e3.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\e3.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/e4.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\e4.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/estamp.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\estamp.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/estamp/why-better.png
+File Name: P:\imp files\printbuddy.co.in\images\estamp\why-better.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/growth.jpeg
+File Name: P:\imp files\printbuddy.co.in\images\franchise\growth.jpeg
+Content Type: image/jpeg
+
+Uri: https://printbuddy.co.in/images/franchise/hero/b1.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\hero\b1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/hero/t1.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\hero\t1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i1.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i2.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i3.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i3.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i4.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i4.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i5.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i5.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/i6.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\i6.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/partner.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\partner.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/w1.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\w1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/subhero/w2.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\subhero\w2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/franchise/who.png
+File Name: P:\imp files\printbuddy.co.in\images\franchise\who.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/banner.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\banner.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/l1.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\l1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/mobile-banner.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\mobile-banner.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/pattern.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\pattern.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/r1.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\r1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/hero/rb1.png
+File Name: P:\imp files\printbuddy.co.in\images\hero\rb1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/ideabaaz/i-logo.png
+File Name: P:\imp files\printbuddy.co.in\images\ideabaaz\i-logo.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/ideabaaz/idea.png
+File Name: P:\imp files\printbuddy.co.in\images\ideabaaz\idea.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/ideabaaz/kagpatra.png
+File Name: P:\imp files\printbuddy.co.in\images\ideabaaz\kagpatra.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/ideabaaz/zee.png
+File Name: P:\imp files\printbuddy.co.in\images\ideabaaz\zee.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/btn2img.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\btn2img.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/btnimg.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\btnimg.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/i1.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\i1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/i2.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\i2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/i3.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\i3.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/i4.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\i4.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/l1.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\l1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/l2.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\l2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/l3.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\l3.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/l4.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\l4.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/lsd.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\lsd.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/kiosks/map.png
+File Name: P:\imp files\printbuddy.co.in\images\kiosks\map.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/layout/logo.png
+File Name: P:\imp files\printbuddy.co.in\images\layout\logo.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/opportunity/growth.png
+File Name: P:\imp files\printbuddy.co.in\images\opportunity\growth.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/opportunity/o1.png
+File Name: P:\imp files\printbuddy.co.in\images\opportunity\o1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/opportunity/o2.png
+File Name: P:\imp files\printbuddy.co.in\images\opportunity\o2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/opportunity/o3.png
+File Name: P:\imp files\printbuddy.co.in\images\opportunity\o3.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/opportunity/o4.png
+File Name: P:\imp files\printbuddy.co.in\images\opportunity\o4.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/privacy/eye.png
+File Name: P:\imp files\printbuddy.co.in\images\privacy\eye.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/privacy/lock.png
+File Name: P:\imp files\printbuddy.co.in\images\privacy\lock.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/privacy/privacy.png
+File Name: P:\imp files\printbuddy.co.in\images\privacy\privacy.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/privacy/shield.png
+File Name: P:\imp files\printbuddy.co.in\images\privacy\shield.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/privacy/trash.png
+File Name: P:\imp files\printbuddy.co.in\images\privacy\trash.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/revolution/bike.png
+File Name: P:\imp files\printbuddy.co.in\images\revolution\bike.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/revolution/icon1.png
+File Name: P:\imp files\printbuddy.co.in\images\revolution\icon1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/revolution/icon2.png
+File Name: P:\imp files\printbuddy.co.in\images\revolution\icon2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/revolution/mobiles.png
+File Name: P:\imp files\printbuddy.co.in\images\revolution\mobiles.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/bcards.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\bcards.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/certificate.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\certificate.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/document.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\document.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/form.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\form.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/photo.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\photo.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/images/wwp/poster.png
+File Name: P:\imp files\printbuddy.co.in\images\wwp\poster.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/privacy-policy
+File Name: P:\imp files\printbuddy.co.in\privacy-policy.html
+Content Type: text/html
+
+Uri: https://printbuddy.co.in/salseforceform.html
+File Name: P:\imp files\printbuddy.co.in\salseforceform.html
+Content Type: text/html
+
+Uri: https://printbuddy.co.in/terms-of-use
+File Name: P:\imp files\printbuddy.co.in\terms-of-use.html
+Content Type: text/html
+
+Uri: https://printbuddy.co.in/video/bg.jpeg
+File Name: P:\imp files\printbuddy.co.in\video\bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fcontact%2Fsalseforce-contact.jpeg&w=1920&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\salseforce-contact.jpeg
+Content Type: image/jpeg
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fcontact%2Fsalseforce-contact.jpeg&w=828&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\salseforce-contact-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fpen.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\pen-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fpen.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\pen.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fshop.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\shop-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fshop.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\shop.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fsmall-kiosk.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\small-kiosk-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fsmall-kiosk.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\small-kiosk.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fsmall-kiosk2.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\small-kiosk2-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Fempowering%2Fsmall-kiosk2.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\small-kiosk2.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Finsta.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\insta-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Finsta.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\insta.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Flink.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\link-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Flink.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\link.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Flogo.png&w=384&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\logo-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Flogo.png&w=750&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\logo.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Fwhite-logo.png&w=1080&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\white-logo-1.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/image?url=%2Fimages%2Flayout%2Fwhite-logo.png&w=2048&q=75
+File Name: P:\imp files\printbuddy.co.in\_next\white-logo.png
+Content Type: image/png
+
+Uri: https://printbuddy.co.in/_next/static/chunks/176-aae30e3c0bcc4b01.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\176-aae30e3c0bcc4b01.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/341-6900bb68625b1a08.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\341-6900bb68625b1a08.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/370b0802-0610e50ed74c96bc.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\370b0802-0610e50ed74c96bc.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/480-908da540527ec413.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\480-908da540527ec413.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/4bd1b696-cf72ae8a39fa05aa.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\4bd1b696-cf72ae8a39fa05aa.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/53c13509-7b9a095c0fbd4a76.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\53c13509-7b9a095c0fbd4a76.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/5e22fd23-6f6746af4b8df3c1.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\5e22fd23-6f6746af4b8df3c1.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/63-e830d34011207317.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\63-e830d34011207317.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/874-88e24f0e286df0b2.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\874-88e24f0e286df0b2.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/8e1d74a4-12b620cb4052c8e9.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\8e1d74a4-12b620cb4052c8e9.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/964-b440f7af22c41ca5.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\964-b440f7af22c41ca5.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/9c4e2130-d322763f562c396e.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\9c4e2130-d322763f562c396e.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/app/franchise/page-fddaa4ad32693302.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\app\franchise\page-fddaa4ad32693302.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/app/layout-26310d465f85b803.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\app\layout-26310d465f85b803.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/app/page-7966fdfff6bdfc29.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\app\page-7966fdfff6bdfc29.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/app/privacy-policy/page-d035ed52c42bb2f3.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\app\privacy-policy\page-d035ed52c42bb2f3.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/app/terms-of-use/page-d035ed52c42bb2f3.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\app\terms-of-use\page-d035ed52c42bb2f3.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/c857e369-0d5065e323c8db82.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\c857e369-0d5065e323c8db82.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/ee560e2c-584b77e5c6a1240f.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\ee560e2c-584b77e5c6a1240f.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/main-app-69496ec153f69d22.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\main-app-69496ec153f69d22.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/chunks/webpack-b608b3dc29b6e419.js
+File Name: P:\imp files\printbuddy.co.in\_next\static\chunks\webpack-b608b3dc29b6e419.js
+Content Type: application/javascript
+
+Uri: https://printbuddy.co.in/_next/static/css/3564d3f14a3cbbc0.css
+File Name: P:\imp files\printbuddy.co.in\_next\static\css\3564d3f14a3cbbc0.css
+Content Type: text/css
+
+Uri: https://printbuddy.co.in/_next/static/css/afc3bc547f5cdb43.css
+File Name: P:\imp files\printbuddy.co.in\_next\static\css\afc3bc547f5cdb43.css
+Content Type: text/css
+
+Uri: https://printbuddy.co.in/_next/static/media/34ba43c981b106ea-s.p.woff2
+File Name: P:\imp files\printbuddy.co.in\_next\static\media\34ba43c981b106ea-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-Q60F75YM1D
+File Name: P:\imp files\printbuddy.co.in\gtag\js
+Content Type: application/javascript
+

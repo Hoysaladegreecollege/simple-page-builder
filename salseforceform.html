@@ -1,0 +1,354 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="v2/css?f[]=satoshi@900,700,500,301,701,300,501,401,901,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
+    <script src="ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+
+    <style>
+      :root {
+        --label: #0f1243;
+        --required: #d82f87;
+        --border: #d7dbe5;
+        --surface: #f7f8fb;
+        --placeholder: #8b90a2;
+        --text: #1f244a;
+        --btn-start: #3a58e9;
+        --btn-end: #4665ff;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: transparent;
+        font-family: "Satoshi", sans-serif;
+      }
+
+      .sf-form {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+
+      .sf-grid-2 {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .sf-label {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--label);
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.25;
+      }
+
+      .sf-required {
+        margin-left: 4px;
+        color: var(--required);
+      }
+
+      .sf-input,
+      .sf-select,
+      .sf-textarea {
+        width: 100%;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: var(--surface);
+        color: var(--text);
+        font-family: inherit;
+        font-size: 16px;
+        outline: none;
+        transition: border-color 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .sf-input,
+      .sf-select {
+        height: 48px;
+        padding: 0 14px;
+      }
+
+      .sf-textarea {
+        min-height: 84px;
+        padding: 12px 14px;
+        resize: vertical;
+      }
+
+      .sf-input::placeholder,
+      .sf-textarea::placeholder {
+        color: var(--placeholder);
+      }
+
+      .sf-input:focus,
+      .sf-select:focus,
+      .sf-textarea:focus {
+        border-color: #bfc7df;
+        box-shadow: 0 0 0 3px rgba(70, 101, 255, 0.1);
+      }
+
+      .sf-select {
+        appearance: none;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='8' viewBox='0 0 14 8' fill='none'%3E%3Cpath d='M1 1L7 7L13 1' stroke='%23A1A7B8' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 14px center;
+        padding-right: 38px;
+        color: #70758a;
+      }
+
+      .sf-submit {
+        margin-top: 10px;
+        height: 46px;
+        width: 100%;
+        border: none;
+        border-radius: 14px;
+        background: linear-gradient(90deg, var(--btn-start) 0%, var(--btn-end) 100%);
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1;
+        cursor: pointer;
+        transition: filter 0.2s ease;
+      }
+
+      .sf-submit:hover {
+        filter: brightness(0.95);
+      }
+
+      .sf-submit:disabled {
+        cursor: not-allowed;
+        opacity: 0.75;
+      }
+
+      .field-error {
+        display: none;
+        margin-top: 6px;
+        color: #d64545;
+        font-size: 12px;
+      }
+
+      .has-error {
+        border-color: #d64545 !important;
+      }
+
+      .iti {
+        width: 100%;
+      }
+
+      .iti__selected-flag,
+      .iti__selected-flag:hover,
+      .iti__selected-flag:focus,
+      .iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag {
+        background: transparent !important;
+      }
+
+      .iti input#phone {
+        padding-left: 72px !important;
+      }
+
+      .iti__country-list {
+        border: 1px solid var(--border);
+      }
+
+      @media (max-width: 460px) {
+        .sf-grid-2 {
+          grid-template-columns: 1fr;
+        }
+
+        .sf-submit {
+          font-size: 18px;
+        }
+      }
+    </style>
+    <title>Salesforce Form</title>
+  </head>
+
+  <body>
+    <form id="leadForm" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D5j00000DCGyt" method="POST" target="hidden_iframe" class="sf-form">
+      <input type="hidden" name="oid" value="00D5j00000DCGyt">
+      <!-- <input type="hidden" name="debug" value="1" /> -->
+      <!-- <input type="hidden" name="debugEmail" value="judson.a@turbostart.co" /> -->
+
+      <div class="sf-grid-2">
+        <div>
+          <label class="sf-label" for="first_name">
+            First Name <span class="sf-required">*</span>
+          </label>
+          <input id="first_name" name="first_name" type="text" maxlength="40" class="sf-input" placeholder="John" required="">
+        </div>
+
+        <div>
+          <label class="sf-label" for="last_name">
+            Last Name <span class="sf-required">*</span>
+          </label>
+          <input id="last_name" name="last_name" type="text" maxlength="80" class="sf-input" placeholder="Doe" required="">
+        </div>
+      </div>
+
+      <div class="sf-grid-2">
+        <div>
+          <label class="sf-label" for="email">
+            Email <span class="sf-required">*</span>
+          </label>
+          <input id="email" name="email" type="email" maxlength="80" class="sf-input" placeholder="john@institution.edu" required="">
+          <p id="email-error" class="field-error"></p>
+        </div>
+
+        <div>
+          <label class="sf-label" for="phone">
+            Phone Number <span class="sf-required">*</span>
+          </label>
+          <input id="phone" name="phone" type="tel" maxlength="40" class="sf-input" placeholder="+9198765 43210" required="">
+          <p id="phone-error" class="field-error"></p>
+        </div>
+      </div>
+
+      <div>
+        <label class="sf-label" for="company">
+          Name of Institution <span class="sf-required">*</span>
+        </label>
+        <input id="company" name="company" type="text" maxlength="255" class="sf-input" placeholder="e.g. Indian Institute of Technology" required="">
+      </div>
+
+      <div class="sf-grid-2">
+        <div>
+          <label class="sf-label" for="institution_type">Type of Institution</label>
+          <select id="institution_type" name="institution_type" class="sf-select">
+            <option value="" selected="">Select type</option>
+            <option value="School">School</option>
+            <option value="College">College</option>
+            <option value="University">University</option>
+            <option value="Coaching Institute">Coaching Institute</option>
+            <option value="Training Center">Training Center</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="sf-label" for="institution_size">Size of Institution</label>
+          <input id="institution_size" name="institution_size" type="text" maxlength="120" class="sf-input" placeholder="e.g. 5,000 students">
+        </div>
+      </div>
+
+      <div class="sf-grid-2">
+        <div>
+          <label class="sf-label" for="title">Role / Designation</label>
+          <input id="title" name="title" type="text" maxlength="128" class="sf-input" placeholder="e.g. Director of IT">
+        </div>
+
+        <div>
+          <label class="sf-label" for="city">
+            City <span class="sf-required">*</span>
+          </label>
+          <input id="city" name="city" type="text" maxlength="40" class="sf-input" placeholder="e.g. Bengaluru" required="">
+        </div>
+      </div>
+
+      <div>
+        <label class="sf-label" for="description">Your message, if any</label>
+        <textarea id="description" name="description" rows="3" class="sf-textarea" placeholder="Tell us about your institution's printing needs..."></textarea>
+      </div>
+
+      <div style="display: none">
+        <label class="sf-label" for="lead_source">Lead Source</label>
+        <select id="lead_source" name="lead_source">
+          <option value="PrintBuddy Website" selected="">PrintBuddy Website</option>
+        </select>
+      </div>
+
+      <button type="submit" class="sf-submit" id="submitBtn">Schedule My Demo</button>
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display: none" title="hidden_iframe"></iframe>
+
+    <script>
+      const form = document.getElementById("leadForm");
+      const submitBtn = document.getElementById("submitBtn");
+      const emailField = document.getElementById("email");
+      const phoneInputField = document.getElementById("phone");
+      const emailError = document.getElementById("email-error");
+      const phoneError = document.getElementById("phone-error");
+
+      const iti = window.intlTelInput(phoneInputField, {
+        initialCountry: "in",
+        utilsScript:
+          "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+      });
+
+
+      function validateEmail(email) {
+        return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+      }
+
+      function showEmailError(message = "") {
+        if (message) {
+          emailError.textContent = message;
+          emailError.style.display = "block";
+          emailField.classList.add("has-error");
+        } else {
+          emailError.style.display = "none";
+          emailError.textContent = "";
+          emailField.classList.remove("has-error");
+        }
+      }
+
+      function showPhoneError(message = "") {
+        if (message) {
+          phoneError.textContent = message;
+          phoneError.style.display = "block";
+          phoneInputField.classList.add("has-error");
+        } else {
+          phoneError.style.display = "none";
+          phoneError.textContent = "";
+          phoneInputField.classList.remove("has-error");
+        }
+      }
+
+      emailField.addEventListener("input", () => showEmailError());
+      phoneInputField.addEventListener("input", () => showPhoneError());
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        let valid = true;
+        const email = (emailField.value || "").trim();
+
+        if (!validateEmail(email)) {
+          showEmailError("Please enter a valid email address.");
+          valid = false;
+        }
+
+        if (!iti.isValidNumber()) {
+          showPhoneError("Please enter a valid phone number for the selected country.");
+          valid = false;
+        }
+
+        if (!valid) return;
+
+        phoneInputField.value = iti.getNumber();
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = "Submitting...";
+
+        setTimeout(() => {
+          form.submit();
+          form.reset();
+          iti.setNumber("");
+          showEmailError();
+          showPhoneError();
+          submitBtn.disabled = false;
+          submitBtn.textContent = "Schedule My Demo";
+          window.open("/thankpage", "_blank");
+        }, 300);
+      });
+    </script>
+  </body>
+</html>
