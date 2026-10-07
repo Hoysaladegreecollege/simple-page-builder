@@ -11,59 +11,28 @@
   --color-muted-foreground: var(--muted-foreground);
   --color-border: var(--border);
   --color-ring: var(--primary);
-  --color-accent: var(--primary);
-  --font-display: 'Anton', sans-serif;
-  --font-sans: 'Space Grotesk', sans-serif;
+  --color-accent: var(--accent);
+  --color-navy: var(--navy);
+  --color-lavender: var(--lavender);
+  --color-surface: var(--surface);
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
 }
 :root {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.968 0.006 106.5);
-  --primary: oklch(0.641 0.245 29.4);
-  --primary-foreground: oklch(0.145 0 0);
-  --muted: oklch(0.21 0 0);
-  --muted-foreground: oklch(0.71 0.004 106.5);
-  --border: oklch(0.968 0.006 106.5 / 12%);
-  --stripe: oklch(0.968 0.006 106.5 / 5%);
-  --radius: 0;
+  --background: #ffffff;
+  --foreground: #050038;
+  --primary: #4262FF;
+  --primary-foreground: #ffffff;
+  --accent: #A79EFF;
+  --lavender: #C3BDFF;
+  --navy: #050038;
+  --surface: #F4F3FF;
+  --muted: #EEEEEE;
+  --muted-foreground: #55537a;
+  --border: #EBEBEB;
+  --radius: 1rem;
 }
 @layer base {
-  * { border-color: var(--border); letter-spacing: 0; }
+  * { border-color: var(--border); }
+  html { scroll-behavior: smooth; }
   body { margin: 0; background: var(--background); color: var(--foreground); font-family: var(--font-sans); }
-  ::selection { background: var(--primary); color: var(--primary-foreground); }
 }
-.personal-page { min-height: 100svh; overflow: hidden; display: flex; flex-direction: column; }
-.page-header, .page-footer { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 24px 40px; }
-.page-header { border-bottom: 1px solid var(--border); }
-.wordmark { font-family: var(--font-display); font-size: 20px; text-transform: uppercase; }
-.page-edition { font-size: 10px; text-transform: uppercase; color: var(--muted-foreground); }
-.personal-hero { position: relative; display: flex; align-items: center; gap: 56px; padding: 76px 40px; width: 100%; max-width: 1440px; margin: auto; flex: 1; }
-.diagonal { position: absolute; top: 0; bottom: 0; left: 50%; width: 8px; background: var(--primary); transform: rotate(12deg); }
-.introduction { flex: 1; min-width: 0; position: relative; z-index: 1; }
-.eyebrow { font-size: 11px; text-transform: uppercase; color: var(--primary); margin: 0 0 25px; }
-.personal-title { font-family: var(--font-display); font-size: 144px; font-weight: 400; line-height: .95; margin: 0; text-transform: uppercase; }
-.personal-title span { display: block; }
-.personal-title .surname { color: var(--primary); transform: rotate(-3deg); transform-origin: left center; margin-left: -4px; }
-.personal-bio { margin-top: 30px; max-width: 420px; font-size: 15px; color: var(--muted-foreground); line-height: 1.8; }
-.kinetic-button { border-radius: 0; background: var(--primary); color: var(--primary-foreground); font-family: var(--font-display); text-transform: uppercase; transform: skewX(-6deg); gap: 24px; margin-top: 22px; font-weight: 400; }
-.kinetic-button:hover { background: var(--foreground); }
-.kinetic-button-size { height: 58px; padding: 16px 32px; font-size: 18px; }
-.kinetic-button span { transform: skewX(6deg); }
-.contact-arrow { font-family: var(--font-sans); font-size: 26px; }
-.portrait-area { position: relative; z-index: 1; flex: 1; min-width: 0; width: 100%; }
-.portrait { position: relative; width: 100%; max-width: 460px; margin: 0 auto; }
-.portrait::before { content: ''; position: absolute; inset: -12px; background-color: color-mix(in oklch, var(--primary) 10%, transparent); background-image: repeating-linear-gradient(45deg,var(--stripe) 0 2px,transparent 2px 16px); transform: rotate(3deg); }
-.portrait img { position: relative; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; display: block; transform: rotate(-3deg); }
-.page-footer { border-top: 1px solid var(--border); font-size: 11px; text-transform: uppercase; color: var(--muted-foreground); padding-top: 22px; padding-bottom: 22px; }
-.footer-note { color: var(--primary); }
-@media (min-width: 1440px) { .personal-title { font-size: 176px; } }
-@media (max-width: 1000px) { .personal-title { font-size: 104px; } .personal-hero { gap: 40px; } }
-@media (max-width: 767px) {
-  .page-header, .page-footer { padding: 22px 24px; }
-  .personal-hero { flex-direction: column; align-items: stretch; padding: 56px 24px 60px; gap: 52px; }
-  .diagonal { display: none; }
-  .personal-title { font-size: 100px; }
-  .portrait { max-width: 390px; width: calc(100% - 24px); }
-  .page-footer { font-size: 10px; }
-}
-@media (max-width: 360px) { .personal-title { font-size: 86px; } }
-@media (prefers-reduced-motion: no-preference) { .introduction { animation: enter .65s ease-out both; } @keyframes enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } } }
